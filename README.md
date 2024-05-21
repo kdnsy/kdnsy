@@ -2,7 +2,7 @@
 - 👀 I’m interested in mostly designing applications or websites and coding games.
 - 🌱 I’m currently learning laravel, flutter, and python!
 - 💞️ I’m looking to collaborate on anyone (still learning)
-- 📫 How to reach me on twt/x : @sendotpy!
+- 📫 Reach me on twt/x : @sendotpy!
 - 😄 Pronouns: any pronouns!
 - ⚡ Fun fact: i can still live despite having an hour of sleep every single day! 
 
